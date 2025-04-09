@@ -1,0 +1,163 @@
+[INFO ] 2024-12-12 11:57:13.135 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 11:57:14.962 [main] Demo4AutomationFramework - Navigated to SignUp/Login page
+[INFO ] 2024-12-12 11:57:16.849 [main] Demo4AutomationFramework - SignUp form submitted with email and username
+[INFO ] 2024-12-12 11:57:19.267 [main] Demo4AutomationFramework - Sign-up form filled successfully with provided details
+[INFO ] 2024-12-12 11:57:19.311 [main] Demo4AutomationFramework - Click on Account Created button form submitted successfully
+[INFO ] 2024-12-12 11:57:19.332 [main] Demo4AutomationFramework - VerifyLogin Test execution started
+[INFO ] 2024-12-12 11:57:20.867 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 11:57:20.868 [main] Demo4AutomationFramework - Navigated to Login page
+[INFO ] 2024-12-12 11:57:21.452 [main] Demo4AutomationFramework - enter email and passsword
+[INFO ] 2024-12-12 11:57:23.053 [main] Demo4AutomationFramework - click on login button
+[INFO ] 2024-12-12 11:57:23.292 [main] Demo4AutomationFramework - Click on Login Button open submitted successfully
+[INFO ] 2024-12-12 11:57:58.224 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 11:57:59.580 [main] Demo4AutomationFramework - Navigated to SignUp/Login page
+[INFO ] 2024-12-12 11:58:01.301 [main] Demo4AutomationFramework - SignUp form submitted with email and username
+[INFO ] 2024-12-12 11:58:05.104 [main] Demo4AutomationFramework - Sign-up form filled successfully with provided details
+[INFO ] 2024-12-12 11:58:05.167 [main] Demo4AutomationFramework - Click on Account Created button form submitted successfully
+[INFO ] 2024-12-12 11:58:05.202 [main] Demo4AutomationFramework - VerifyLogin Test execution started
+[INFO ] 2024-12-12 11:58:06.615 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 11:58:06.616 [main] Demo4AutomationFramework - Navigated to Login page
+[INFO ] 2024-12-12 11:58:07.138 [main] Demo4AutomationFramework - enter email and passsword
+[INFO ] 2024-12-12 11:58:08.990 [main] Demo4AutomationFramework - click on login button
+[INFO ] 2024-12-12 11:58:09.241 [main] Demo4AutomationFramework - Click on Login Button open submitted successfully
+[INFO ] 2024-12-12 12:25:18.210 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 12:25:19.798 [main] Demo4AutomationFramework - Navigated to SignUp/Login page
+[INFO ] 2024-12-12 12:25:21.697 [main] Demo4AutomationFramework - SignUp form submitted with email and username
+[INFO ] 2024-12-12 12:25:26.048 [main] Demo4AutomationFramework - Sign-up form filled successfully with provided details
+[INFO ] 2024-12-12 12:25:26.128 [main] Demo4AutomationFramework - Click on Account Created button form submitted successfully
+[INFO ] 2024-12-12 12:25:26.164 [main] Demo4AutomationFramework - VerifyLogin Test execution started
+[INFO ] 2024-12-12 12:25:28.172 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 12:25:28.172 [main] Demo4AutomationFramework - Navigated to Login page
+[INFO ] 2024-12-12 12:25:29.051 [main] Demo4AutomationFramework - enter email and passsword
+[INFO ] 2024-12-12 12:25:30.445 [main] Demo4AutomationFramework - click on login button
+[INFO ] 2024-12-12 12:25:30.716 [main] Demo4AutomationFramework - Click on Login Button open submitted successfully
+[INFO ] 2024-12-12 12:27:18.929 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 12:27:20.318 [main] Demo4AutomationFramework - Navigated to SignUp/Login page
+[INFO ] 2024-12-12 12:27:22.251 [main] Demo4AutomationFramework - SignUp form submitted with email and username
+[INFO ] 2024-12-12 12:27:28.168 [main] Demo4AutomationFramework - Sign-up form filled successfully with provided details
+[INFO ] 2024-12-12 12:27:28.218 [main] Demo4AutomationFramework - Click on Account Created button form submitted successfully
+[INFO ] 2024-12-12 12:27:28.251 [main] Demo4AutomationFramework - VerifyLogin Test execution started
+[INFO ] 2024-12-12 12:27:30.869 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 12:27:30.870 [main] Demo4AutomationFramework - Navigated to Login page
+[INFO ] 2024-12-12 12:27:31.423 [main] Demo4AutomationFramework - enter email and passsword
+[INFO ] 2024-12-12 12:27:32.750 [main] Demo4AutomationFramework - click on login button
+[INFO ] 2024-12-12 12:27:32.969 [main] Demo4AutomationFramework - Click on Login Button open submitted successfully
+[INFO ] 2024-12-12 12:47:09.058 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 12:47:10.659 [main] Demo4AutomationFramework - Navigated to SignUp/Login page
+[INFO ] 2024-12-12 12:47:12.657 [main] Demo4AutomationFramework - SignUp form submitted with email and username
+[INFO ] 2024-12-12 12:47:17.953 [main] Demo4AutomationFramework - Sign-up form filled successfully with provided details
+[INFO ] 2024-12-12 12:47:18.025 [main] Demo4AutomationFramework - Click on Account Created button form submitted successfully
+[INFO ] 2024-12-12 12:47:18.067 [main] Demo4AutomationFramework - VerifyLogin Test execution started
+[INFO ] 2024-12-12 12:47:20.107 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-12 12:47:20.108 [main] Demo4AutomationFramework - Navigated to Login page
+[INFO ] 2024-12-12 12:47:20.681 [main] Demo4AutomationFramework - enter email and passsword
+[INFO ] 2024-12-12 12:47:22.179 [main] Demo4AutomationFramework - click on login button
+[INFO ] 2024-12-12 12:47:22.461 [main] Demo4AutomationFramework - Click on Login Button open submitted successfully
+[INFO ] 2024-12-13 10:59:55.920 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-13 10:59:57.491 [main] Demo4AutomationFramework - Navigated to SignUp/Login page
+[INFO ] 2024-12-13 10:59:59.514 [main] Demo4AutomationFramework - SignUp form submitted with email and username
+[INFO ] 2024-12-13 11:00:02.654 [main] Demo4AutomationFramework - Sign-up form filled successfully with provided details
+[INFO ] 2024-12-13 11:00:02.713 [main] Demo4AutomationFramework - Click on Account Created button form submitted successfully
+[INFO ] 2024-12-13 11:00:02.748 [main] Demo4AutomationFramework - VerifyLogin Test execution started
+[INFO ] 2024-12-13 11:00:03.962 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-13 11:00:03.963 [main] Demo4AutomationFramework - Navigated to Login page
+[INFO ] 2024-12-13 11:00:04.370 [main] Demo4AutomationFramework - enter email and passsword
+[INFO ] 2024-12-13 11:00:05.686 [main] Demo4AutomationFramework - click on login button
+[INFO ] 2024-12-13 11:00:05.832 [main] Demo4AutomationFramework - Click on Login Button open submitted successfully
+[INFO ] 2024-12-13 11:03:33.465 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-13 11:03:35.033 [main] Demo4AutomationFramework - Navigated to SignUp/Login page
+[INFO ] 2024-12-13 11:03:37.545 [main] Demo4AutomationFramework - SignUp form submitted with email and username
+[INFO ] 2024-12-13 11:03:41.370 [main] Demo4AutomationFramework - Sign-up form filled successfully with provided details
+[INFO ] 2024-12-13 11:03:41.433 [main] Demo4AutomationFramework - Click on Account Created button form submitted successfully
+[INFO ] 2024-12-13 11:03:41.471 [main] Demo4AutomationFramework - VerifyLogin Test execution started
+[INFO ] 2024-12-13 11:03:43.892 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-13 11:03:43.892 [main] Demo4AutomationFramework - Navigated to Login page
+[INFO ] 2024-12-13 11:03:44.420 [main] Demo4AutomationFramework - enter email and passsword
+[INFO ] 2024-12-13 11:03:46.173 [main] Demo4AutomationFramework - click on login button
+[INFO ] 2024-12-13 11:03:46.397 [main] Demo4AutomationFramework - Click on Login Button open submitted successfully
+[INFO ] 2024-12-13 11:04:17.045 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-13 11:04:19.502 [main] Demo4AutomationFramework - Navigated to SignUp/Login page
+[INFO ] 2024-12-13 11:04:21.718 [main] Demo4AutomationFramework - SignUp form submitted with email and username
+[INFO ] 2024-12-13 11:04:25.698 [main] Demo4AutomationFramework - Sign-up form filled successfully with provided details
+[INFO ] 2024-12-13 11:04:25.748 [main] Demo4AutomationFramework - Click on Account Created button form submitted successfully
+[INFO ] 2024-12-13 11:04:25.786 [main] Demo4AutomationFramework - VerifyLogin Test execution started
+[INFO ] 2024-12-13 11:04:28.938 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-13 11:04:28.938 [main] Demo4AutomationFramework - Navigated to Login page
+[INFO ] 2024-12-13 11:04:29.484 [main] Demo4AutomationFramework - enter email and passsword
+[INFO ] 2024-12-13 11:04:31.919 [main] Demo4AutomationFramework - click on login button
+[INFO ] 2024-12-13 11:04:32.219 [main] Demo4AutomationFramework - Click on Login Button open submitted successfully
+[INFO ] 2024-12-13 11:06:27.253 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-13 11:06:28.808 [main] Demo4AutomationFramework - Navigated to SignUp/Login page
+[INFO ] 2024-12-13 11:06:30.620 [main] Demo4AutomationFramework - SignUp form submitted with email and username
+[INFO ] 2024-12-13 11:06:34.081 [main] Demo4AutomationFramework - Sign-up form filled successfully with provided details
+[INFO ] 2024-12-13 11:06:34.143 [main] Demo4AutomationFramework - Click on Account Created button form submitted successfully
+[INFO ] 2024-12-13 11:06:34.174 [main] Demo4AutomationFramework - VerifyLogin Test execution started
+[INFO ] 2024-12-13 11:06:35.689 [main] Demo4AutomationFramework - URL opened successfully
+[INFO ] 2024-12-13 11:06:35.689 [main] Demo4AutomationFramework - Navigated to Login page
+[INFO ] 2024-12-13 11:06:36.580 [main] Demo4AutomationFramework - enter email and passsword
+[INFO ] 2024-12-13 11:06:38.155 [main] Demo4AutomationFramework - click on login button
+[INFO ] 2024-12-13 11:06:38.370 [main] Demo4AutomationFramework - Click on Login Button open submitted successfully
+[INFO ] 2025-01-07 17:52:41.861 [main] Demo4AutomationFramework - URL opened successfully
+[ERROR] 2025-01-07 17:52:51.985 [main] Demo4AutomationFramework - Test case failed due to exception: no such element: Unable to locate element: {"method":"css selector","selector":"#\:Rclkn\:"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ef30e1e5a3c6a3ef32323ecf36f4957c, findElement {using=id, value=:Rclkn:}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.87 (ce31cae94873..., userDataDir: C:\Users\Tarun\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58728/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ef30e1e5a3c6a3ef32323ecf36f4957c
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\:Rclkn\:"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ef30e1e5a3c6a3ef32323ecf36f4957c, findElement {using=id, value=:Rclkn:}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.87 (ce31cae94873..., userDataDir: C:\Users\Tarun\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58728}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58728/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ef30e1e5a3c6a3ef32323ecf36f4957c
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.27.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.27.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.27.0.jar:?]
+	at jdk.proxy2.$Proxy28.sendKeys(Unknown Source) ~[?:?]
+	at com.store.pageobject.B_01_LoginPageKestral.clickOnEnterEmailId(B_01_LoginPageKestral.java:36) ~[test-classes/:?]
+	at com.store.testcases.B_02_TC_KestrelLoginPageTest.verifyRegistrationAndLogin(B_02_TC_KestrelLoginPageTest.java:23) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) ~[testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) ~[testng-remote.jar:?]
